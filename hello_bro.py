@@ -1,1 +1,1 @@
-print("NIC")
+print("NICe")
