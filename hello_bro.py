@@ -1,1 +1,1 @@
-print("NICe")
+print("NICE")
